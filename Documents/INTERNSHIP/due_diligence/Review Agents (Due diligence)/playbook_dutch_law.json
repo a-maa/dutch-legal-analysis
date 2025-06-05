@@ -1,0 +1,51 @@
+[
+  {
+    "id": "check_1",
+    "question": "Are there any debts or liabilities that could impact the transaction?",
+    "rule": "Under Dutch Civil Law (BW), all debts or liabilities that could impact the transaction must be clearly disclosed in accordance with Article 6:228 BW regarding error (dwaling). Undisclosed liabilities may give grounds for annulment.",
+    "category": "Financial",
+    "created_at": "2025-05-29T19:40:00.000000"
+  },
+  {
+    "id": "check_2",
+    "question": "What is the termination clause?",
+    "rule": "Under Dutch Civil Law, termination clauses (opzegging) must provide reasonable notice periods in accordance with Article 6:237 sub c BW. For long-term agreements, a notice period of at least 1 month is typically required.",
+    "category": "Contract Terms",
+    "created_at": "2025-05-29T19:40:00.000000"
+  },
+  {
+    "id": "check_3",
+    "question": "Are there any change of control provisions?",
+    "rule": "Change of control provisions must be clearly defined and reasonable in scope under Dutch law principles of fairness (redelijkheid en billijkheid) per Article 6:248 BW. Provisions that unduly restrict corporate freedom are potentially void.",
+    "category": "Corporate",
+    "created_at": "2025-05-29T19:40:00.000000"
+  },
+  {
+    "id": "check_4",
+    "question": "What are the governing law and jurisdiction?",
+    "rule": "Under Dutch Private International Law, choice of law and forum clauses must be explicit (Article 10:154 BW). For Dutch entities, Dutch law and courts are preferred to ensure enforceability and avoid complex conflicts of law.",
+    "category": "Legal",
+    "created_at": "2025-05-29T19:40:00.000000"
+  },
+  {
+    "id": "check_5",
+    "question": "Are there any non-compete or non-solicitation clauses?",
+    "rule": "Non-compete clauses under Dutch labor law (Article 7:653 BW) must be reasonable in duration (typically ≤1 year), geography, and scope. They must be in writing and must not unduly restrict economic freedom.",
+    "category": "Employment",
+    "created_at": "2025-05-29T19:40:00.000000"
+  },
+  {
+    "id": "check_6",
+    "question": "What are the intellectual property ownership terms?",
+    "rule": "Under Dutch copyright law (Auteurswet) and Dutch Contract Law, IP assignment must be explicit. Work-for-hire principles do not automatically apply, and moral rights (persoonlijkheidsrechten) cannot be fully transferred per Article 25 Auteurswet.",
+    "category": "Intellectual Property",
+    "created_at": "2025-05-29T19:40:00.000000"
+  },
+  {
+    "id": "check_7",
+    "question": "Is there a limit to liability, and if so, under which conditions?",
+    "rule": "Exoneration clauses and art. 6:248 (2) DCC",
+    "category": "Legal",
+    "created_at": "2025-05-31T12:52:46.273143"
+  }
+]
